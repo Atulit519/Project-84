@@ -1,0 +1,17 @@
+#heading_text{
+    color: blueviolet;
+}
+
+#note_text{
+    color: orange; 
+    font-size: larger;
+}
+
+#note_heading{
+    color: red;
+    font-size: larger;
+}
+
+#my_canvas{
+    border: ridge gray 5px;
+}
